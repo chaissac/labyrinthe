@@ -7,8 +7,8 @@ Pour en savoir plus : https://fr.wikipedia.org/wiki/Mod%C3%A9lisation_math%C3%A9
 
 
 / English /
+# maze
 
-Maze
 Playng with Processing to learn it, I coded this classical Maze Generator, based on Recursive Backtracker algorithm.
 
 See : https://en.wikipedia.org/wiki/Maze_generation_algorithm
